@@ -1,0 +1,46 @@
+{
+  "name": "webpack-react-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack serve --hot --config webpack.config.js --progress"
+  },
+  "dependencies": {
+    "react": "0.0.0-experimental-3310209d0",
+    "react-dom": "0.0.0-experimental-3310209d0"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.12.1",
+    "@babel/core": "7.12.3",
+    "@babel/plugin-proposal-class-properties": "7.12.1",
+    "@babel/plugin-proposal-export-default-from": "7.12.1",
+    "@babel/plugin-proposal-export-namespace-from": "7.12.1",
+    "@babel/plugin-proposal-nullish-coalescing-operator": "7.12.1",
+    "@babel/plugin-proposal-optional-chaining": "7.12.7",
+    "@babel/plugin-transform-react-jsx-source": "7.12.1",
+    "@babel/plugin-transform-typescript": "7.12.1",
+    "@babel/preset-env": "7.12.1",
+    "@babel/preset-react": "7.12.5",
+    "@babel/preset-typescript": "7.12.1",
+    "react-refresh": "0.8.1",
+    "@pmmmwh/react-refresh-webpack-plugin": "0.4.2",
+    "@webpack-cli/serve": "1.1.0",
+    "autodll-webpack-plugin": "^0.4.2",
+    "babel-loader": "8.2.1",
+    "cache-loader": "4.1.0",
+    "css-loader": "^0.28.7",
+    "dotenv-safe": "^6.0.0",
+    "dotenv-webpack": "^5.1.0",
+    "hard-source-webpack-plugin": "0.13.1",
+    "html-webpack-plugin": "4.5.0",
+    "style-loader": "0.21.0",
+    "terser-webpack-plugin": "2.3.5",
+    "unused-files-webpack-plugin": "3.4.0",
+    "webpack": "4.44.2",
+    "webpack-cli": "4.2.0",
+    "webpack-dev-server": "3.11.0",
+    "webpack-merge": "5.7.2",
+    "webpack-plugin-serve": "1.2.0"
+  }
+}
