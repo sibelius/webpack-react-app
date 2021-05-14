@@ -16,7 +16,6 @@ module.exports = {
     path: outputPath,
     publicPath: '/',
     pathinfo: false,
-    futureEmitAssets: true,
   },
   resolve: {
     extensions: ['.ts', '.tsx', '.js', '.json', '.mjs'],
