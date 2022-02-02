@@ -20,7 +20,7 @@
     "@babel/plugin-proposal-optional-chaining": "7.16.7",
     "@babel/plugin-transform-react-jsx-source": "7.14.2",
     "@babel/plugin-transform-typescript": "7.13.0",
-    "@babel/preset-env": "7.14.2",
+    "@babel/preset-env": "7.16.11",
     "@babel/preset-react": "7.13.13",
     "@babel/preset-typescript": "7.16.7",
     "@pmmmwh/react-refresh-webpack-plugin": "0.4.3",
