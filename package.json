@@ -21,7 +21,7 @@
     "@babel/plugin-transform-react-jsx-source": "7.14.2",
     "@babel/plugin-transform-typescript": "7.16.8",
     "@babel/preset-env": "7.16.11",
-    "@babel/preset-react": "7.13.13",
+    "@babel/preset-react": "7.16.7",
     "@babel/preset-typescript": "7.16.7",
     "@pmmmwh/react-refresh-webpack-plugin": "0.5.4",
     "@webpack-cli/serve": "1.4.0",
