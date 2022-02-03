@@ -772,12 +772,12 @@
   dependencies:
     "@babel/plugin-transform-react-jsx" "^7.12.17"
 
-"@babel/plugin-transform-react-jsx-source@7.14.2":
-  version "7.14.2"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-react-jsx-source/-/plugin-transform-react-jsx-source-7.14.2.tgz#2620b57e7de775c0687f65d464026d15812941da"
-  integrity sha512-OMorspVyjxghAjzgeAWc6O7W7vHbJhV69NeTGdl9Mxgz6PaweAuo7ffB9T5A1OQ9dGcw0As4SYMUhyNC4u7mVg==
+"@babel/plugin-transform-react-jsx-source@7.16.7":
+  version "7.16.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-react-jsx-source/-/plugin-transform-react-jsx-source-7.16.7.tgz#1879c3f23629d287cc6186a6c683154509ec70c0"
+  integrity sha512-rONFiQz9vgbsnaMtQlZCjIRwhJvlrPET8TabIUK2hzlXw9B9s2Ieaxte1SCOOXMbWRHodbKixNf3BLcWVOQ8Bw==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.13.0"
+    "@babel/helper-plugin-utils" "^7.16.7"
 
 "@babel/plugin-transform-react-jsx@^7.12.17", "@babel/plugin-transform-react-jsx@^7.13.12":
   version "7.13.12"
