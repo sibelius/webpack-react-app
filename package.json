@@ -24,7 +24,7 @@
     "@babel/preset-react": "7.17.12",
     "@babel/preset-typescript": "7.17.12",
     "@pmmmwh/react-refresh-webpack-plugin": "0.5.7",
-    "@webpack-cli/serve": "1.6.1",
+    "@webpack-cli/serve": "1.7.0",
     "autodll-webpack-plugin": "^0.4.2",
     "babel-loader": "8.2.5",
     "cache-loader": "4.1.0",
