@@ -22,7 +22,7 @@
     "@babel/plugin-transform-typescript": "7.18.6",
     "@babel/preset-env": "7.18.2",
     "@babel/preset-react": "7.18.6",
-    "@babel/preset-typescript": "7.17.12",
+    "@babel/preset-typescript": "7.18.6",
     "@pmmmwh/react-refresh-webpack-plugin": "0.5.7",
     "@webpack-cli/serve": "1.7.0",
     "autodll-webpack-plugin": "^0.4.2",
