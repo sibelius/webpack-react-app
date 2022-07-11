@@ -30,7 +30,7 @@
     "cache-loader": "4.1.0",
     "css-loader": "^6.7.1",
     "dotenv-safe": "^8.2.0",
-    "dotenv-webpack": "^7.1.1",
+    "dotenv-webpack": "^8.0.0",
     "hard-source-webpack-plugin": "0.13.1",
     "html-webpack-plugin": "5.5.0",
     "react-refresh": "0.14.0",
