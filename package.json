@@ -28,7 +28,7 @@
     "autodll-webpack-plugin": "^0.4.2",
     "babel-loader": "8.2.5",
     "cache-loader": "4.1.0",
-    "css-loader": "^6.7.2",
+    "css-loader": "^6.7.3",
     "dotenv-safe": "^8.2.0",
     "dotenv-webpack": "^7.1.1",
     "hard-source-webpack-plugin": "0.13.1",
